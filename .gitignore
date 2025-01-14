@@ -1,0 +1,5 @@
+# Ignore Python virutal enviroment
+regressionenv_
+
+# Jupyter chekcpoints
+.ipynb_checkpoints/
